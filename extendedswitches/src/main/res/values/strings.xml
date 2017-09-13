@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Extended Switches</string>
+    <string name="app_name">ExtendedSwitches</string>
+    <string name="action_settings">Settings</string>
 </resources>
